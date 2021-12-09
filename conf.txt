@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 content to conf.txt
 content to append
+=======
+this is some content to mess with
+>>>>>>> conflict
